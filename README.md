@@ -1,6 +1,7 @@
 ### Hello World! 👋
 ___
-__I am a person who thinks, a well written code is an art.__
+_I am a person who thinks, a well written code is an art._ 
+
 
 <!--
 **afrozesk/afrozesk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
