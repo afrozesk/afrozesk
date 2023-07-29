@@ -4,11 +4,15 @@ _a well written code is an art._
 
 
 ### Lets connect 💬
-
-[![LinkedIn](https://img.shields.io/badge/AfrozeS-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AfrozeS/)
-[![LeetCode](https://img.shields.io/badge/user1162QT-000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/user1162QT/)
-[![Medium](https://img.shields.io/badge/AfrozeS-000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@afroze.shaik.afroze)
-
+<a href="https://www.linkedin.com/in/AfrozeS/" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/AfrozeS-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://leetcode.com/user1162QT/" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/user1162QT-000?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+<a href="https://medium.com/@afroze.shaik.afroze" target="_blank">
+  <img alt="Medium" src="https://img.shields.io/badge/AfrozeS-000?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
 
 <!--
 **afrozesk/afrozesk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
