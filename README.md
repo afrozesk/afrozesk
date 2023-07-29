@@ -1,6 +1,6 @@
 ### Hello World! 👋
 ___
-_I am a person who thinks, a well written code is an art._ 
+_a well written code is an art._ 
 
 
 <!--
